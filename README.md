@@ -44,8 +44,9 @@ This application provides a user-friendly interface for managing enterprise cust
 ## Running the Demo
 
 1.  Make sure both the JSON server and the development server are running.
-2.  Open your browser and go to `http://localhost:3000`.
-3.  You can then interact with the application.
+2.  Username is `Test` and Password is `password`, this has been hardcoded for authentication and we dont have API as such.
+3.  Open your browser and go to `http://localhost:3000`.
+4.  You can then interact with the application.
 
 ## Notes
 
