@@ -34,12 +34,12 @@ This application provides a user-friendly interface for managing enterprise cust
 
 ## Setup Instructions
 
-1.  Clone the repository: `git clone <repository_link>`
-2.  Navigate to the project directory: `cd <project_directory>`
-3.  Install dependencies: `npm install` or `yarn install`
-4.  Start the JSON Server mock API: `json-server --watch src/api/db.json --port 5000` (in a separate terminal)
-5.  Start the development server: `npm start` or `yarn start`
-6.  The application will be accessible at `http://localhost:3000`
+
+1.  Navigate to the project directory: `cd <project_directory>`
+2.  Install dependencies: `npm install` or `yarn install`
+3.  Start the JSON Server mock API: `json-server --watch src/api/db.json --port 5000` (in a separate terminal)
+4.  Start the development server: `npm start` or `yarn start`
+5.  The application will be accessible at `http://localhost:3000`
 
 ## Running the Demo
 
